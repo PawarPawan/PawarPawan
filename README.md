@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PawarPawan
 - 👀 I’m interested in ... blockchain and cloud computing
-- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ... blockchain projects
 - 📫 How to reach me ... info@pawanpawar.com
 
